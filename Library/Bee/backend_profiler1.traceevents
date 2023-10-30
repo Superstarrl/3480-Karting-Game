@@ -1,0 +1,723 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1698627101767510, "dur":1504, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698627101769018, "dur":102, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1698627101769152, "dur":19, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1698627101769171, "dur":455, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1698627101769689, "dur":571, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698627101770260, "dur":2, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698627101853338, "dur":270, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698627101853608, "dur":56, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698627101853664, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698627101853668, "dur":27, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698627101853696, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698627101853699, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698627101853705, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698627101853706, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698627101853712, "dur":0, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698627101853712, "dur":11, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698627101853723, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698627101853725, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698627101853729, "dur":0, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698627101853729, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698627101853734, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698627101853736, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698627101853740, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698627101853741, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698627101853745, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698627101853746, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698627101853750, "dur":0, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698627101853750, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698627101853754, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698627101853756, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698627101853760, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698627101853761, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698627101853766, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698627101853767, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698627101853771, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698627101853772, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698627101853777, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698627101853779, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698627101853783, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698627101853793, "dur":2, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698627101853817, "dur":2029, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1698627101780826, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698627101780826, "dur":6177, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698627101787024, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1698627101787034, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698627101788114, "dur":595, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1698627101788713, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1698627101788750, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698627101789056, "dur":3356, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1698627101792414, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1698627101792468, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698627101792473, "dur":2159, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1698627101794682, "dur":158, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698627101794842, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698627101795245, "dur":2750, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698627101798036, "dur":135, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698627101798173, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698627101798177, "dur":4377, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698627101802593, "dur":157, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698627101802752, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698627101802755, "dur":3783, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698627101806565, "dur":150, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.Purchasing.Codeless.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698627101806717, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698627101806720, "dur":3705, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.Purchasing.Codeless.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698627101810456, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698627101810552, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698627101810555, "dur":4543, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698627101815142, "dur":109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698627101815253, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698627101815257, "dur":4514, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698627101819808, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698627101819926, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698627101819930, "dur":4651, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698627101824616, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698627101824723, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698627101824726, "dur":4735, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698627101829494, "dur":2136, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698627101831632, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698627101831635, "dur":5589, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698627101837258, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/KartGame.AI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698627101837344, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698627101837346, "dur":5004, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/KartGame.AI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698627101842398, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1698627101842463, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698627101842466, "dur":8300, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1698627101850790, "dur":2557, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698627101780864, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698627101780865, "dur":6144, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698627101787024, "dur":394, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1698627101787420, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698627101792670, "dur":2403, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1698627101795124, "dur":171, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698627101795297, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698627101795301, "dur":3071, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698627101798425, "dur":112, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698627101798539, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698627101798541, "dur":4549, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698627101803121, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698627101803223, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698627101803226, "dur":3769, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698627101807037, "dur":135, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.Purchasing.AppleMacosStub.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698627101807175, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698627101807179, "dur":3941, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.Purchasing.AppleMacosStub.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698627101811150, "dur":96, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698627101811248, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698627101811250, "dur":4411, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698627101815706, "dur":128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698627101815838, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698627101815842, "dur":4804, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698627101820734, "dur":196, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698627101820932, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698627101820934, "dur":4356, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698627101825330, "dur":92, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/Unity.ProBuilder.KdTree.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698627101825424, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698627101825441, "dur":5161, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/Unity.ProBuilder.KdTree.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698627101830645, "dur":327, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698627101830974, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698627101830977, "dur":4175, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698627101835185, "dur":939, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698627101836126, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698627101836129, "dur":4584, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698627101840747, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/sharedassets3.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1698627101840796, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698627101840799, "dur":2630, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/sharedassets3.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1698627101843456, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":2, "ts":1698627101843555, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698627101843557, "dur":5522, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":2, "ts":1698627101849136, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1698627101849185, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698627101849189, "dur":4094, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1698627101853308, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":2, "ts":1698627101853310, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698627101780855, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698627101780856, "dur":6152, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698627101787027, "dur":222, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1698627101787250, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698627101789773, "dur":2745, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1698627101792555, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":3, "ts":1698627101792602, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698627101792606, "dur":2555, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":3, "ts":1698627101795226, "dur":214, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698627101795443, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698627101795447, "dur":3846, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698627101799321, "dur":122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698627101799445, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698627101799448, "dur":4019, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698627101803500, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698627101803605, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698627101803608, "dur":3742, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698627101807380, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.Purchasing.AppleCore.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698627101807466, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698627101807469, "dur":4090, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.Purchasing.AppleCore.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698627101811592, "dur":87, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698627101811681, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698627101811683, "dur":4227, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698627101815937, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698627101816054, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698627101816057, "dur":4622, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698627101820713, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698627101820804, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698627101820807, "dur":4068, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698627101824918, "dur":122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/Unity.ProBuilder.Stl.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698627101825042, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698627101825045, "dur":4544, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/Unity.ProBuilder.Stl.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698627101829623, "dur":133, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698627101829759, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698627101829762, "dur":4095, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698627101833883, "dur":1386, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698627101835272, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698627101835276, "dur":4358, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698627101839683, "dur":4698, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Plugins/x86_64/grpc_csharp_ext.x64.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698627101844384, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698627101844533, "dur":3635, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Plugins/x86_64/grpc_csharp_ext.x64.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698627101848255, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/level0" }}
+,{ "pid":12345, "tid":3, "ts":1698627101848319, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698627101848324, "dur":3939, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/level0" }}
+,{ "pid":12345, "tid":3, "ts":1698627101852289, "dur":1046, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698627101780894, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698627101780895, "dur":6116, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698627101787027, "dur":310, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1698627101787339, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698627101792680, "dur":2042, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1698627101794778, "dur":158, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698627101794938, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698627101795249, "dur":2690, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698627101797998, "dur":136, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698627101798136, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698627101798139, "dur":4206, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698627101802396, "dur":201, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698627101802599, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698627101802603, "dur":3695, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698627101806338, "dur":125, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.Purchasing.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698627101806465, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698627101806468, "dur":3736, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.Purchasing.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698627101810238, "dur":178, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698627101810417, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698627101810421, "dur":4457, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698627101814915, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698627101815030, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698627101815034, "dur":4123, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698627101819199, "dur":146, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698627101819348, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698627101819352, "dur":4546, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698627101823933, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698627101824051, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698627101824055, "dur":4764, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698627101828868, "dur":107, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/Unity.Analytics.DataPrivacy.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698627101828977, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698627101828981, "dur":4052, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/Unity.Analytics.DataPrivacy.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698627101833068, "dur":233, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/System.Interactive.Async.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698627101833303, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698627101833306, "dur":4230, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/System.Interactive.Async.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698627101837572, "dur":317, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/Google.Protobuf.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698627101837891, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698627101837894, "dur":5669, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/Google.Protobuf.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698627101843613, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/resources.assets" }}
+,{ "pid":12345, "tid":4, "ts":1698627101843660, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698627101843663, "dur":6513, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/resources.assets" }}
+,{ "pid":12345, "tid":4, "ts":1698627101850206, "dur":3135, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698627101780912, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698627101780912, "dur":6093, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698627101787025, "dur":401, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":5, "ts":1698627101787428, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698627101795719, "dur":1827, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":5, "ts":1698627101797584, "dur":121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698627101797707, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698627101797726, "dur":4235, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698627101801990, "dur":166, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698627101802158, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698627101802162, "dur":3520, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698627101805721, "dur":261, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.Purchasing.Stores.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698627101806005, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698627101806010, "dur":3855, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.Purchasing.Stores.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698627101809903, "dur":116, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698627101810021, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698627101810024, "dur":4507, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698627101814580, "dur":124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698627101814706, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698627101814710, "dur":3971, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698627101818721, "dur":177, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698627101818900, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698627101818918, "dur":4635, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698627101823593, "dur":475, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698627101824070, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698627101824073, "dur":4761, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698627101828866, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/Unity.Barracuda.BurstBLAS.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698627101828973, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698627101828976, "dur":4114, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/Unity.Barracuda.BurstBLAS.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698627101833130, "dur":134, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698627101833266, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698627101833269, "dur":4051, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698627101837361, "dur":326, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/Grpc.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698627101837689, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698627101837691, "dur":5758, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/Grpc.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1698627101843481, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1698627101843511, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1698627101843513, "dur":5866, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1698627101849414, "dur":3918, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698627101780941, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698627101780942, "dur":6068, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698627101787028, "dur":167, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1698627101787231, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698627101789319, "dur":3064, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1698627101792443, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":6, "ts":1698627101792492, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698627101792496, "dur":2098, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":6, "ts":1698627101794635, "dur":157, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698627101794795, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698627101795241, "dur":2860, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698627101798137, "dur":172, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698627101798311, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698627101798314, "dur":4521, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698627101802876, "dur":121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698627101802999, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698627101803002, "dur":3930, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698627101806974, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.Purchasing.AppleStub.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698627101807070, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698627101807073, "dur":3683, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.Purchasing.AppleStub.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698627101810787, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698627101810882, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698627101810886, "dur":4439, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698627101815354, "dur":180, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698627101815536, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698627101815538, "dur":4882, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698627101820466, "dur":147, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698627101820616, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698627101820621, "dur":4415, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698627101825065, "dur":128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/Unity.ProBuilder.Poly2Tri.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698627101825194, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698627101825198, "dur":4658, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/Unity.ProBuilder.Poly2Tri.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698627101829890, "dur":253, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698627101830145, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698627101830149, "dur":4258, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698627101834435, "dur":107, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698627101834544, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698627101834547, "dur":3609, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698627101838184, "dur":265, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/Cinemachine.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698627101838451, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698627101838453, "dur":5154, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/Cinemachine.dll" }}
+,{ "pid":12345, "tid":6, "ts":1698627101843648, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/level3.resS" }}
+,{ "pid":12345, "tid":6, "ts":1698627101843722, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1698627101843727, "dur":5899, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/level3.resS" }}
+,{ "pid":12345, "tid":6, "ts":1698627101849659, "dur":3674, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698627101780961, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698627101780961, "dur":6046, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698627101787027, "dur":165, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1698627101787226, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698627101789801, "dur":2899, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1698627101792768, "dur":679, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2.exe" }}
+,{ "pid":12345, "tid":7, "ts":1698627101793449, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698627101793452, "dur":2618, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2.exe" }}
+,{ "pid":12345, "tid":7, "ts":1698627101796121, "dur":159, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698627101796282, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698627101796286, "dur":4143, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698627101800470, "dur":1036, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698627101801508, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698627101801512, "dur":4205, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698627101805767, "dur":125, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.Purchasing.SecurityStub.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698627101805895, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698627101805899, "dur":3595, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.Purchasing.SecurityStub.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698627101809538, "dur":138, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698627101809678, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698627101809681, "dur":4344, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698627101814052, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698627101814137, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698627101814140, "dur":3777, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698627101817956, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/Unity.Tutorials.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698627101818053, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698627101818056, "dur":4904, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/Unity.Tutorials.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698627101822999, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698627101823115, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698627101823119, "dur":4259, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698627101827436, "dur":386, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698627101827825, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698627101827830, "dur":4845, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698627101832705, "dur":129, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/System.IO.Abstractions.TestingHelpers.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698627101832836, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698627101832840, "dur":4020, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/System.IO.Abstractions.TestingHelpers.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698627101836894, "dur":221, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698627101837117, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698627101837119, "dur":4487, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1698627101841636, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":7, "ts":1698627101841672, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1698627101841675, "dur":8926, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":7, "ts":1698627101850631, "dur":2707, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698627101780988, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698627101780988, "dur":6021, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698627101787026, "dur":170, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1698627101787233, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698627101789769, "dur":2801, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1698627101792624, "dur":742, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698627101793369, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698627101793962, "dur":2419, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698627101796433, "dur":155, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698627101796590, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698627101796593, "dur":4652, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698627101801300, "dur":150, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698627101801453, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698627101801456, "dur":3349, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698627101804843, "dur":109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698627101804954, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698627101804958, "dur":3661, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698627101808651, "dur":197, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698627101808850, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698627101808853, "dur":4168, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698627101813058, "dur":107, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698627101813167, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698627101813170, "dur":4072, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698627101817273, "dur":398, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698627101817673, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698627101817676, "dur":4989, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698627101822700, "dur":107, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698627101822810, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698627101822813, "dur":4114, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698627101826970, "dur":713, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698627101827687, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698627101827694, "dur":4937, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698627101832663, "dur":139, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698627101832818, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698627101832821, "dur":3838, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698627101836693, "dur":3159, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698627101839855, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698627101839860, "dur":8219, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":8, "ts":1698627101848177, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/level0.resS" }}
+,{ "pid":12345, "tid":8, "ts":1698627101848233, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1698627101848240, "dur":3883, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/level0.resS" }}
+,{ "pid":12345, "tid":8, "ts":1698627101852161, "dur":1177, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698627101781029, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698627101781030, "dur":5991, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698627101787023, "dur":251, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":9, "ts":1698627101787276, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698627101790366, "dur":2238, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":9, "ts":1698627101792647, "dur":6954, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698627101799605, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698627101799712, "dur":4233, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698627101803989, "dur":133, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698627101804124, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698627101804128, "dur":3794, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698627101807956, "dur":159, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698627101808117, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698627101808120, "dur":4197, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698627101812361, "dur":110, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698627101812473, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698627101812476, "dur":4089, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698627101816602, "dur":110, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698627101816714, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698627101816717, "dur":5088, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698627101821854, "dur":120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698627101821976, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698627101821980, "dur":4200, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698627101826215, "dur":237, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/Unity.ML-Agents.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698627101826454, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698627101826457, "dur":4823, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/Unity.ML-Agents.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698627101831313, "dur":147, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698627101831461, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698627101831464, "dur":4346, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698627101835855, "dur":110, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/Purchasing.Common.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698627101835968, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698627101835972, "dur":3668, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/Purchasing.Common.dll" }}
+,{ "pid":12345, "tid":9, "ts":1698627101839684, "dur":108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":9, "ts":1698627101839794, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698627101840111, "dur":1621, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":9, "ts":1698627101841761, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":9, "ts":1698627101841800, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698627101841802, "dur":7419, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":9, "ts":1698627101849277, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":9, "ts":1698627101849329, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1698627101849332, "dur":3197, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":9, "ts":1698627101852560, "dur":779, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698627101781062, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698627101781062, "dur":5951, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698627101787024, "dur":401, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":10, "ts":1698627101787426, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698627101794112, "dur":2022, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":10, "ts":1698627101796194, "dur":147, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1698627101796344, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698627101796349, "dur":4163, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1698627101800549, "dur":336, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":10, "ts":1698627101800888, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698627101800892, "dur":3629, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":10, "ts":1698627101804555, "dur":136, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1698627101804693, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698627101804697, "dur":3797, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1698627101808528, "dur":98, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1698627101808628, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698627101808631, "dur":3933, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1698627101812618, "dur":192, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":10, "ts":1698627101812813, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698627101812817, "dur":3942, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":10, "ts":1698627101816799, "dur":145, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":10, "ts":1698627101816946, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698627101816950, "dur":4606, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":10, "ts":1698627101821590, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":10, "ts":1698627101821671, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698627101821674, "dur":4142, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":10, "ts":1698627101825857, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/Unity.ProBuilder.Csg.dll" }}
+,{ "pid":12345, "tid":10, "ts":1698627101825972, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698627101825975, "dur":4792, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/Unity.ProBuilder.Csg.dll" }}
+,{ "pid":12345, "tid":10, "ts":1698627101830797, "dur":696, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":10, "ts":1698627101831494, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698627101831497, "dur":4250, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":10, "ts":1698627101835781, "dur":315, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":10, "ts":1698627101836099, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698627101836105, "dur":3475, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":10, "ts":1698627101839615, "dur":362, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":10, "ts":1698627101839979, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698627101841048, "dur":1560, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":10, "ts":1698627101842643, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":10, "ts":1698627101842675, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698627101842677, "dur":6548, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":10, "ts":1698627101849278, "dur":138, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/boot.config" }}
+,{ "pid":12345, "tid":10, "ts":1698627101849418, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1698627101849420, "dur":3239, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/boot.config" }}
+,{ "pid":12345, "tid":10, "ts":1698627101852682, "dur":658, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698627101781093, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698627101781094, "dur":5925, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698627101787026, "dur":311, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":11, "ts":1698627101787339, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698627101791191, "dur":1976, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":11, "ts":1698627101793210, "dur":165, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.XR.LegacyInputHelpers.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698627101793394, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698627101793745, "dur":2850, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.XR.LegacyInputHelpers.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698627101796648, "dur":139, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698627101796790, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698627101796794, "dur":4729, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698627101801575, "dur":266, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698627101801844, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698627101801847, "dur":3645, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698627101805535, "dur":125, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.Purchasing.WinRTCore.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698627101805663, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698627101805667, "dur":3635, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.Purchasing.WinRTCore.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698627101809334, "dur":105, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698627101809441, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698627101809443, "dur":4283, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698627101813761, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698627101813865, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698627101813868, "dur":3975, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698627101817881, "dur":147, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698627101818030, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698627101818034, "dur":4775, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698627101822854, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698627101822956, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698627101822959, "dur":4315, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698627101827316, "dur":202, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698627101827522, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698627101827527, "dur":4353, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698627101831926, "dur":136, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698627101832065, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698627101832068, "dur":4254, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698627101836365, "dur":134, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698627101836501, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698627101836504, "dur":4339, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":11, "ts":1698627101840883, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":11, "ts":1698627101840921, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698627101840925, "dur":1976, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":11, "ts":1698627101842934, "dur":118, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":11, "ts":1698627101843055, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698627101843057, "dur":6102, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":11, "ts":1698627101849219, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":11, "ts":1698627101849305, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1698627101849312, "dur":3648, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":11, "ts":1698627101852983, "dur":360, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1698627101781121, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1698627101781122, "dur":5893, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1698627101787025, "dur":394, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1698627101787421, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1698627101793258, "dur":2374, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1698627101795687, "dur":149, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1698627101795839, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1698627101795865, "dur":4561, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1698627101800470, "dur":193, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1698627101800666, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1698627101800670, "dur":3674, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1698627101804376, "dur":118, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1698627101804496, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1698627101804499, "dur":3704, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1698627101808279, "dur":203, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1698627101808485, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1698627101808489, "dur":4092, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1698627101812619, "dur":109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1698627101812730, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1698627101812735, "dur":4083, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1698627101816856, "dur":297, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":12, "ts":1698627101817155, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1698627101817158, "dur":5512, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":12, "ts":1698627101822720, "dur":114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":12, "ts":1698627101822837, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1698627101822843, "dur":3928, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":12, "ts":1698627101826817, "dur":212, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/Unity.ML-Agents.CommunicatorObjects.dll" }}
+,{ "pid":12345, "tid":12, "ts":1698627101827032, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1698627101827038, "dur":4601, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/Unity.ML-Agents.CommunicatorObjects.dll" }}
+,{ "pid":12345, "tid":12, "ts":1698627101831691, "dur":181, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":12, "ts":1698627101831874, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1698627101831877, "dur":4288, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":12, "ts":1698627101836212, "dur":526, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":12, "ts":1698627101836740, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1698627101836743, "dur":4700, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":12, "ts":1698627101841488, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":12, "ts":1698627101841536, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1698627101841540, "dur":3257, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":12, "ts":1698627101844826, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/level2.resS" }}
+,{ "pid":12345, "tid":12, "ts":1698627101844855, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1698627101844858, "dur":5763, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/level2.resS" }}
+,{ "pid":12345, "tid":12, "ts":1698627101850656, "dur":2674, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1698627101781140, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1698627101781140, "dur":5882, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1698627101787027, "dur":154, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":13, "ts":1698627101787183, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1698627101789152, "dur":3463, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":13, "ts":1698627101792673, "dur":22932, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":13, "ts":1698627101815607, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1698627101815610, "dur":13152, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":13, "ts":1698627101828801, "dur":476, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/Unity.Barracuda.dll" }}
+,{ "pid":12345, "tid":13, "ts":1698627101829279, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1698627101829283, "dur":4500, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/Unity.Barracuda.dll" }}
+,{ "pid":12345, "tid":13, "ts":1698627101833815, "dur":1819, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":13, "ts":1698627101835636, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1698627101835640, "dur":5743, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":13, "ts":1698627101841415, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":13, "ts":1698627101841454, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1698627101841457, "dur":3876, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":13, "ts":1698627101845371, "dur":118, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/level2" }}
+,{ "pid":12345, "tid":13, "ts":1698627101845494, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1698627101845502, "dur":5760, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/level2" }}
+,{ "pid":12345, "tid":13, "ts":1698627101851299, "dur":2037, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698627101781162, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698627101781163, "dur":5863, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698627101787026, "dur":224, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":14, "ts":1698627101787251, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698627101790108, "dur":2533, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":14, "ts":1698627101792713, "dur":1214, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":14, "ts":1698627101793929, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698627101793931, "dur":2674, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":14, "ts":1698627101796652, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698627101796770, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698627101796773, "dur":3988, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698627101800807, "dur":116, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698627101800925, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698627101800928, "dur":3118, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698627101804079, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.SpatialTracking.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698627101804181, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698627101804184, "dur":3701, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.SpatialTracking.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698627101807912, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698627101808009, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698627101808028, "dur":3729, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698627101811782, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698627101811895, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698627101811910, "dur":4182, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698627101816126, "dur":137, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.Advertisements.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698627101816265, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698627101816269, "dur":4811, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.Advertisements.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698627101821123, "dur":107, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698627101821233, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698627101821237, "dur":4326, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698627101825605, "dur":319, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/Unity.ProBuilder.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698627101825926, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698627101825929, "dur":5218, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/Unity.ProBuilder.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698627101831181, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698627101831283, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698627101831286, "dur":4141, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698627101835468, "dur":498, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698627101835968, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698627101835972, "dur":4008, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":14, "ts":1698627101840023, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":14, "ts":1698627101840061, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698627101840373, "dur":1565, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":14, "ts":1698627101841963, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":14, "ts":1698627101841998, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698627101842053, "dur":4343, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":14, "ts":1698627101846469, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/level1.resS" }}
+,{ "pid":12345, "tid":14, "ts":1698627101846575, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1698627101846584, "dur":5037, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/level1.resS" }}
+,{ "pid":12345, "tid":14, "ts":1698627101851648, "dur":1694, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1698627101781187, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1698627101781187, "dur":5829, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1698627101787027, "dur":163, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":15, "ts":1698627101787222, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1698627101789147, "dur":3637, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":15, "ts":1698627101792852, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":15, "ts":1698627101792909, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1698627101793432, "dur":4215, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":15, "ts":1698627101797687, "dur":121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1698627101797810, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1698627101797814, "dur":4456, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1698627101802306, "dur":119, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1698627101802427, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1698627101802430, "dur":3508, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1698627101805974, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.Purchasing.SecurityCore.dll" }}
+,{ "pid":12345, "tid":15, "ts":1698627101806089, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1698627101806093, "dur":3816, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.Purchasing.SecurityCore.dll" }}
+,{ "pid":12345, "tid":15, "ts":1698627101809956, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1698627101810057, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1698627101810060, "dur":4479, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1698627101814599, "dur":168, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1698627101814769, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1698627101814772, "dur":4171, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1698627101818972, "dur":364, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":15, "ts":1698627101819338, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1698627101819342, "dur":4635, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":15, "ts":1698627101824009, "dur":302, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll" }}
+,{ "pid":12345, "tid":15, "ts":1698627101824313, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1698627101824316, "dur":4974, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll" }}
+,{ "pid":12345, "tid":15, "ts":1698627101829327, "dur":161, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":15, "ts":1698627101829490, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1698627101829493, "dur":4121, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":15, "ts":1698627101833651, "dur":361, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":15, "ts":1698627101834014, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1698627101834016, "dur":4307, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":15, "ts":1698627101838350, "dur":81, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":15, "ts":1698627101838433, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1698627101838436, "dur":5174, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":15, "ts":1698627101843653, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/level3" }}
+,{ "pid":12345, "tid":15, "ts":1698627101843717, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1698627101843721, "dur":5910, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/level3" }}
+,{ "pid":12345, "tid":15, "ts":1698627101849669, "dur":3662, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1698627101781230, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1698627101781231, "dur":5783, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1698627101787024, "dur":155, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":16, "ts":1698627101787182, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1698627101789130, "dur":3714, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":16, "ts":1698627101792899, "dur":186, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1698627101793087, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1698627101793733, "dur":2605, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1698627101796390, "dur":189, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1698627101796582, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1698627101796586, "dur":4895, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1698627101801523, "dur":157, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1698627101801682, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1698627101801685, "dur":3581, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1698627101805305, "dur":121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.Purchasing.WinRTStub.dll" }}
+,{ "pid":12345, "tid":16, "ts":1698627101805429, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1698627101805432, "dur":3545, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.Purchasing.WinRTStub.dll" }}
+,{ "pid":12345, "tid":16, "ts":1698627101809005, "dur":142, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1698627101809149, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1698627101809153, "dur":4249, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1698627101813434, "dur":1039, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1698627101814475, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1698627101814478, "dur":4487, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1698627101818992, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":16, "ts":1698627101819070, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1698627101819073, "dur":4516, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":16, "ts":1698627101823627, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll" }}
+,{ "pid":12345, "tid":16, "ts":1698627101823730, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1698627101823733, "dur":4433, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll" }}
+,{ "pid":12345, "tid":16, "ts":1698627101828214, "dur":259, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/Unity.Barracuda.ONNX.dll" }}
+,{ "pid":12345, "tid":16, "ts":1698627101828476, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1698627101828480, "dur":4224, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/Unity.Barracuda.ONNX.dll" }}
+,{ "pid":12345, "tid":16, "ts":1698627101832739, "dur":139, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/System.IO.Abstractions.dll" }}
+,{ "pid":12345, "tid":16, "ts":1698627101832880, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1698627101832883, "dur":4241, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/System.IO.Abstractions.dll" }}
+,{ "pid":12345, "tid":16, "ts":1698627101837159, "dur":151, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/Managed/KartGame.dll" }}
+,{ "pid":12345, "tid":16, "ts":1698627101837312, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1698627101837315, "dur":5026, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/Managed/KartGame.dll" }}
+,{ "pid":12345, "tid":16, "ts":1698627101842393, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":16, "ts":1698627101842447, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1698627101842451, "dur":5350, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":16, "ts":1698627101847858, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Builds/KartingPP/Karting 2_Data/level1" }}
+,{ "pid":12345, "tid":16, "ts":1698627101847912, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1698627101847919, "dur":4224, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Builds/KartingPP/Karting 2_Data/level1" }}
+,{ "pid":12345, "tid":16, "ts":1698627101852179, "dur":1155, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698627101857225, "dur":2061, "ph":"X", "name": "ProfilerWriteOutput" }
+,
